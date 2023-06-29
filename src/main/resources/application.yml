@@ -1,0 +1,8 @@
+spring:
+  profiles:
+    active: local
+
+  rabbitmq:
+    host: localhost
+    username: test
+    password: test
